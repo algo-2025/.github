@@ -18,7 +18,11 @@
 - [#2 Первая программа на C](https://disk.yandex.ru/i/NLuEc9wsz-JAeg)
 
 ## Лекции
-<Будут выкладываться по мере поступления!>
+- [Лекция №1](https://docs.google.com/presentation/d/1jEhAI3AO_i_2QNiV8gGwcty0dxa61PyQ4FfJFMkzFdc/edit?usp=sharing)
+- [Лекция №2](https://docs.google.com/presentation/d/1ZBjTYljDjBGtT_o-7dTLsf-hiBbGyCgekh7V5YR0Ivo/edit?usp=sharing)
+- [Лекция №3](https://docs.google.com/presentation/d/1KChqvYQrlV6dtz4xB4016Rvfh7omIdv5ierOtdXTeAY/edit?usp=sharing)
+- [Лекция №4](https://docs.google.com/presentation/d/19__08NCEkpObIMLUWszN-bzB2WN132e_3Dc5joZI4YU/edit?usp=sharing)
+- [Лекция №5](https://docs.google.com/presentation/d/1kgJoxf-n8zIEajfS1cyimnyMtFKU8MsY06z7Has9mXo/edit?usp=sharing)
 
 ## Лабораторные
 - [Лабораторная 1](labs/lab-1.md)
