@@ -14,7 +14,7 @@
 - [Подсказка по исправлению проблем с git](https://dangitgit.com/ru)
 
 ## Воркшопы
-- #1 Терминал, IDE, компилятор [Настройка MacOS](https://disk.yandex.ru/d/LoUEUGyjcXG39g)/[Настройка Windows](https://disk.yandex.ru/i/Xh53I0rZfSISIA)
+- #1 Терминал, IDE, компилятор, а также [Настройка MacOS](https://disk.yandex.ru/d/LoUEUGyjcXG39g)/[Настройка Windows](https://disk.yandex.ru/i/Xh53I0rZfSISIA)
 - [#2 Первая программа на C](https://disk.yandex.ru/i/NLuEc9wsz-JAeg)
 
 ## Лекции
