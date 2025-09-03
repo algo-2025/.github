@@ -24,5 +24,5 @@
 - [Лекция №4](https://docs.google.com/presentation/d/19__08NCEkpObIMLUWszN-bzB2WN132e_3Dc5joZI4YU/edit?usp=sharing)
 - [Лекция №5](https://docs.google.com/presentation/d/1kgJoxf-n8zIEajfS1cyimnyMtFKU8MsY06z7Has9mXo/edit?usp=sharing)
 
-## Лабораторные
-- [Лабораторная 1](labs/lab-1.md)
+# Лабораторные работы создаются автоматически из шаблона и должны быть доступны как ваши репозитории в этой организации
+
