@@ -16,6 +16,7 @@
 ## Воркшопы
 - #1 Терминал, IDE, компилятор, а также [Настройка MacOS](https://disk.yandex.ru/d/LoUEUGyjcXG39g)/[Настройка Windows](https://disk.yandex.ru/i/Xh53I0rZfSISIA)
 - [#2 Первая программа на C](https://disk.yandex.ru/i/NLuEc9wsz-JAeg)
+- [#3 Делаем лабу](https://disk.yandex.ru/i/TZIoGJ3_KeTWsQ)
 
 ## Лекции
 - [Лекция №1](https://docs.google.com/presentation/d/1jEhAI3AO_i_2QNiV8gGwcty0dxa61PyQ4FfJFMkzFdc/edit?usp=sharing)
