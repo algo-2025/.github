@@ -9,8 +9,7 @@
 - [Обратная связь/Issues/Дискуссии](https://github.com/orgs/algo-2025/discussions) не забудьте прочитать [правила](https://github.com/algo-2025/suggestions-and-requests) 
 
 ## Гайды
-- [Как проходит защита работы/ASAP info](guides/asap-student-guide.md)
-- [Как отправить лабу на проверку?](guides/create-assignment-submission.md)
+- [Как проходит защита](guides/asap-student-guide.md)
 - [Подсказка по исправлению проблем с git](https://dangitgit.com/ru)
 
 ## Воркшопы
