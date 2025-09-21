@@ -22,14 +22,6 @@
 
 [Таблица](https://docs.google.com/spreadsheets/d/1tb6IWb4un0hPYNeWnKaHyspRwgtbWK3MDhOX7UzZJeI/edit?usp=sharing) с доп. баллами по лекциям. ФИО распознаются автоматически, по этому могут быть ошибки и опечатки.
 
-## Частые вопросы
-#### Выполнил start.sh скрипт, но лабы не появились
-Попробовать переклонировать (удалить директорию и склонировать репозиторий заново), и потом еще раз запустить. Если не получилось, то написать в дискуссионку вашу проблему и скинуть ссылку на дискуссию админу в тг (@Mawlle)
-
-#### Сlone не работает с паролем
-Вообще не используйте пароли, используйте ssh ключи (https://stackoverflow.com/questions/2643502/how-to-solve-permission-denied-publickey-error-when-using-git).  
-Либо если у вас двухфакторка, нужно сгенерировать токен и использовать его
-
 - [Лекция №1](https://docs.google.com/presentation/d/1jEhAI3AO_i_2QNiV8gGwcty0dxa61PyQ4FfJFMkzFdc/edit?usp=sharing)
 - [Лекция №2](https://docs.google.com/presentation/d/1ZBjTYljDjBGtT_o-7dTLsf-hiBbGyCgekh7V5YR0Ivo/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/7fe_KX7fUN41CQ), [поток 2](https://disk.yandex.ru/i/llpCF6mFXA155Q)
 - [Лекция №3](https://docs.google.com/presentation/d/1KChqvYQrlV6dtz4xB4016Rvfh7omIdv5ierOtdXTeAY/edit?usp=sharing)
@@ -37,4 +29,13 @@
 - [Лекция №5](https://docs.google.com/presentation/d/1kgJoxf-n8zIEajfS1cyimnyMtFKU8MsY06z7Has9mXo/edit?usp=sharing)
 
 # Лабораторные работы создаются автоматически из шаблона и должны быть доступны как ваши репозитории в этой организации
+
+
+## Частые вопросы
+#### Выполнил start.sh скрипт, но лабы не появились
+Попробовать переклонировать (удалить директорию и склонировать репозиторий заново), и потом еще раз запустить. Если не получилось, то написать в дискуссионку вашу проблему и скинуть ссылку на дискуссию админу в тг (@Mawlle)
+
+#### Сlone не работает с паролем
+Вообще не используйте пароли, используйте ssh ключи (https://stackoverflow.com/questions/2643502/how-to-solve-permission-denied-publickey-error-when-using-git).  
+Либо если у вас двухфакторка, нужно сгенерировать токен и использовать его
 
