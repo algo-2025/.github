@@ -11,6 +11,7 @@
 ## Гайды
 - [Как проходит защита](guides/asap-student-guide.md)
 - [Подсказка по исправлению проблем с git](https://dangitgit.com/ru)
+- [Добавляем self-hosted runner](https://disk.yandex.ru/i/9gxf58dbCaVJ5Q)
 
 ## Воркшопы
 - #1 Терминал, IDE, компилятор, а также [Настройка MacOS](https://disk.yandex.ru/d/LoUEUGyjcXG39g)/[Настройка Windows](https://disk.yandex.ru/i/Xh53I0rZfSISIA)
