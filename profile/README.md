@@ -28,7 +28,7 @@
 - [Лекция №3](https://docs.google.com/presentation/d/1KChqvYQrlV6dtz4xB4016Rvfh7omIdv5ierOtdXTeAY/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/vjuJtfhqFPUogg), [поток 2](https://disk.yandex.ru/i/gyGE8JeE4ziUZA)
 - [Лекция №4](https://docs.google.com/presentation/d/19__08NCEkpObIMLUWszN-bzB2WN132e_3Dc5joZI4YU/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/d/kOWWARpfbet2yg), [поток 2](https://disk.yandex.ru/i/vEpmZBpSOHbbpw)
 - [Лекция №5](https://docs.google.com/presentation/d/1kgJoxf-n8zIEajfS1cyimnyMtFKU8MsY06z7Has9mXo/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/wYo2ug6YiIBVMA), [поток 2](https://disk.yandex.ru/i/1ELKEjV6faN23g)
-- [Лекция №6](https://docs.google.com/presentation/d/1hE1NQyqDVF0Nj25I7JiPDgRnmriUNl3P_mpiixwZ5v8/edit?usp=sharing).
+- [Лекция №6](https://docs.google.com/presentation/d/1hE1NQyqDVF0Nj25I7JiPDgRnmriUNl3P_mpiixwZ5v8/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/BCFwd6dnKBNo2A), [поток 2](https://disk.yandex.ru/i/GiBOdG4YzuQ2Mg)
 
 # Лабораторные работы создаются автоматически из шаблона и должны быть доступны как ваши репозитории в этой организации
 
