@@ -31,6 +31,8 @@
 - [Лекция №6](https://docs.google.com/presentation/d/1hE1NQyqDVF0Nj25I7JiPDgRnmriUNl3P_mpiixwZ5v8/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/BCFwd6dnKBNo2A), [поток 2](https://disk.yandex.ru/i/GiBOdG4YzuQ2Mg)
 - [Лекция №7](https://docs.google.com/presentation/d/1LUP1ZF2UGNJhFMDE-Tm6kZcBqDjKtYSBuDv-EcfAeT0/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/Uv6d2sJJz7iozg), [поток 2](https://disk.yandex.ru/i/LjYpmWvD5cSddA)
 - [Лекция №8](https://docs.google.com/presentation/d/10AhZ2nWugImXD3NBRM5vVatbipqXjHIvmSH1-LJwMRk/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/n4nTdjz2r11NYw), [поток 2](https://disk.yandex.ru/i/WQ5RJAT0g8APMw)
+- [Лекция №9](https://docs.google.com/presentation/d/1V2My6e0h_CvVMsu_UFRpJM7Jzci8z9-rEozk1mRwsmQ/edit?usp=sharing). Видео: (скоро загружу)
+- [Лекция №10](https://docs.google.com/presentation/d/1c4B_Fiuhw3cZLSXgAan2jApfL9nRmqYIxvkNc4J-Gwk/edit?usp=sharing). Видео: (скоро загружу)
 
 # Лабораторные работы создаются автоматически из шаблона и должны быть доступны как ваши репозитории в этой организации
 
