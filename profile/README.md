@@ -31,7 +31,7 @@
 - [Лекция №6](https://docs.google.com/presentation/d/1hE1NQyqDVF0Nj25I7JiPDgRnmriUNl3P_mpiixwZ5v8/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/BCFwd6dnKBNo2A), [поток 2](https://disk.yandex.ru/i/GiBOdG4YzuQ2Mg)
 - [Лекция №7](https://docs.google.com/presentation/d/1LUP1ZF2UGNJhFMDE-Tm6kZcBqDjKtYSBuDv-EcfAeT0/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/Uv6d2sJJz7iozg), [поток 2](https://disk.yandex.ru/i/LjYpmWvD5cSddA)
 - [Лекция №8](https://docs.google.com/presentation/d/10AhZ2nWugImXD3NBRM5vVatbipqXjHIvmSH1-LJwMRk/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/n4nTdjz2r11NYw), [поток 2](https://disk.yandex.ru/i/WQ5RJAT0g8APMw)
-- [Лекция №9](https://docs.google.com/presentation/d/1V2My6e0h_CvVMsu_UFRpJM7Jzci8z9-rEozk1mRwsmQ/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/PVfiaxMkqbx-0A), поток 2 (скоро загружу)
+- [Лекция №9](https://docs.google.com/presentation/d/1V2My6e0h_CvVMsu_UFRpJM7Jzci8z9-rEozk1mRwsmQ/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/PVfiaxMkqbx-0A), [поток 2](https://disk.yandex.ru/i/iMKXekOD6i2MwQ)
 - [Лекция №10](https://docs.google.com/presentation/d/1c4B_Fiuhw3cZLSXgAan2jApfL9nRmqYIxvkNc4J-Gwk/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/d/LMiyeBnEJVh5Xg), поток 2 (скоро загружу)
 - [Лекция №11](https://docs.google.com/presentation/d/1zjOtbw4P5F-M1J2MPFIFZiCeSbHwe3wGoB_WMiJcbLo/edit?usp=sharing).
 
