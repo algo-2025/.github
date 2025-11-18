@@ -33,6 +33,7 @@
 - [Лекция №8](https://docs.google.com/presentation/d/10AhZ2nWugImXD3NBRM5vVatbipqXjHIvmSH1-LJwMRk/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/n4nTdjz2r11NYw), [поток 2](https://disk.yandex.ru/i/WQ5RJAT0g8APMw)
 - [Лекция №9](https://docs.google.com/presentation/d/1V2My6e0h_CvVMsu_UFRpJM7Jzci8z9-rEozk1mRwsmQ/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/PVfiaxMkqbx-0A), поток 2 (скоро загружу)
 - [Лекция №10](https://docs.google.com/presentation/d/1c4B_Fiuhw3cZLSXgAan2jApfL9nRmqYIxvkNc4J-Gwk/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/d/LMiyeBnEJVh5Xg), поток 2 (скоро загружу)
+- [Лекция №11](https://docs.google.com/presentation/d/1zjOtbw4P5F-M1J2MPFIFZiCeSbHwe3wGoB_WMiJcbLo/edit?usp=sharing).
 
 # Лабораторные работы создаются автоматически из шаблона и должны быть доступны как ваши репозитории в этой организации
 
