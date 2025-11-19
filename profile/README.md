@@ -32,8 +32,8 @@
 - [Лекция №7](https://docs.google.com/presentation/d/1LUP1ZF2UGNJhFMDE-Tm6kZcBqDjKtYSBuDv-EcfAeT0/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/Uv6d2sJJz7iozg), [поток 2](https://disk.yandex.ru/i/LjYpmWvD5cSddA)
 - [Лекция №8](https://docs.google.com/presentation/d/10AhZ2nWugImXD3NBRM5vVatbipqXjHIvmSH1-LJwMRk/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/n4nTdjz2r11NYw), [поток 2](https://disk.yandex.ru/i/WQ5RJAT0g8APMw)
 - [Лекция №9](https://docs.google.com/presentation/d/1V2My6e0h_CvVMsu_UFRpJM7Jzci8z9-rEozk1mRwsmQ/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/PVfiaxMkqbx-0A), [поток 2](https://disk.yandex.ru/i/iMKXekOD6i2MwQ)
-- [Лекция №10](https://docs.google.com/presentation/d/1c4B_Fiuhw3cZLSXgAan2jApfL9nRmqYIxvkNc4J-Gwk/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/d/LMiyeBnEJVh5Xg), поток 2 (скоро загружу)
-- [Лекция №11](https://docs.google.com/presentation/d/1zjOtbw4P5F-M1J2MPFIFZiCeSbHwe3wGoB_WMiJcbLo/edit?usp=sharing).
+- [Лекция №10](https://docs.google.com/presentation/d/1c4B_Fiuhw3cZLSXgAan2jApfL9nRmqYIxvkNc4J-Gwk/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/d/LMiyeBnEJVh5Xg), [поток 2](https://disk.yandex.ru/i/HcqBQLZdSJhnqw)
+- [Лекция №11](https://docs.google.com/presentation/d/1zjOtbw4P5F-M1J2MPFIFZiCeSbHwe3wGoB_WMiJcbLo/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/cHE92RqsaXecZg), [поток 2](https://disk.yandex.ru/i/OgkgvWBaS737YA)
 
 # Лабораторные работы создаются автоматически из шаблона и должны быть доступны как ваши репозитории в этой организации
 
