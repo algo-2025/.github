@@ -37,7 +37,7 @@
 - [Лекция №12](https://docs.google.com/presentation/d/1WhVrpfo57mvOv1Kb-X08nkj9aI-Rg5kNte9pL3XWBv4/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/j1QjOBxFUlyJMQ), [поток 2](https://disk.yandex.ru/i/huWy8cSydk4wTQ)
 - [Лекция №13 ДП](https://docs.google.com/presentation/d/1jflZ-1x4pyn9PyWmnVq3tliLxd3fSh9S9vhvvsCcuFY/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/eK5HPildgj8lfA), [поток 2](https://disk.yandex.ru/i/kupWK--VGuXEyw)
 - [Лекция №14 жадники](https://docs.google.com/presentation/d/1C_7qYiTvPov8NrpdZYG_L49Py0HEoIPxEkD6lZppPjk/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/fhxNIuaSAcpitA), [поток 2](https://disk.yandex.ru/i/NOF17XNFlLOYng)
-- [Лекция №15 матроиды](https://docs.google.com/presentation/d/1eAx30UC0Bgr5OzwirS-5DrQmgD-FJdkrFz2W1Oeamz0/edit?usp=sharing). Видео: [поток 1](), [поток 2]()
+- [Лекция №15 матроиды](https://docs.google.com/presentation/d/1eAx30UC0Bgr5OzwirS-5DrQmgD-FJdkrFz2W1Oeamz0/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/d/KHoXa6pD-vcXmg), [поток 2]()
 
 # Лабораторные работы создаются автоматически из шаблона и должны быть доступны как ваши репозитории в этой организации
 
